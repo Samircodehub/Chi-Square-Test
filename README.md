@@ -10,3 +10,8 @@ Contingency tables
 In chi-square test of independence, the best way to organize your data is  contingency table.
 A contingency table, also known as a cross tabulation, shows the number of observations in each combination of groups. It also usually includes row and column totals.
 
+## # Whether to reject the null hypothesis
+* If the Χ2 value is greater than the critical value, then the difference between the observed and expected distributions is statistically significant (p <  α).
+The data allows you to reject the null hypothesis that the variables are unrelated and provides support for the alternative hypothesis that the variables are related.
+* If the Χ2 value is less than the critical value, then the difference between the observed and expected distributions is not statistically significant (p >  α).
+The data doesn’t allow you to reject the null hypothesis that the variables are unrelated and doesn’t provide support for the alternative hypothesis that the variables are related.
