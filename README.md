@@ -15,3 +15,7 @@ A contingency table, also known as a cross tabulation, shows the number of obser
 The data allows you to reject the null hypothesis that the variables are unrelated and provides support for the alternative hypothesis that the variables are related.
 * If the Χ2 value is less than the critical value, then the difference between the observed and expected distributions is not statistically significant (p >  α).
 The data doesn’t allow you to reject the null hypothesis that the variables are unrelated and doesn’t provide support for the alternative hypothesis that the variables are related.
+
+
+* Null hypothesis (H0): Variable 1 and variable 2 are not related in the population; The proportions of variable 1 are the same for different values of variable.
+* Alternative hypothesis (Ha): Variable 1 and  variable 2 are related in the population; The proportions of variable 1 are not the same for different values of  variable. 
